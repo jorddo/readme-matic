@@ -12,8 +12,49 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  console.log({ data });
   return `
-    # ${data.title}
+  # ${data.title}
+
+  ## Description
+  ${data.description}
+
+  ## Table of Contents
+
+  If your README is long, add a table of contents to make it easy for users to find what they need.
+
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Contribution](#how-to-contribute)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+  ## Installation
+
+  ## Usage
+
+  ## License
+
+  ## Badges
+
+  ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+  badges hosted by [shields.io](https://shields.io/).
+
+  ## How to Contribute
+
+  the [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard
+
+  ## Tests
+
+
+  ## Questions
+
+  github username link
+
+  email link
 `;
 }
 

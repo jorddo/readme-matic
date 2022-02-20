@@ -15,7 +15,8 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
   return inquirer.prompt(questions).then((readmeData) => {
-    console.log(readmeData);
+    console.log({ readmeData });
+    generateMarkdown(readmeData);
   });
 }
 
