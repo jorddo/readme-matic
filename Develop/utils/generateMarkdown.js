@@ -10,7 +10,17 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  if (license === 'MIT') {
+    return 'https://opensource.org/licenses/MIT';
+  } else if (license === 'GNU_General_Public_License_3.0') {
+    return 'https://opensource.org/licenses/GPL-3.0';
+  } else if (license === 'Apache_2.0') {
+    return 'https://opensource.org/licenses/Apache-2.0';
+  } else {
+    return 'https://opensource.org/licenses/GPL-2.0';
+  }
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -31,43 +41,49 @@ function generateMarkdown(data) {
 
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
   - [Contribution](#how-to-contribute)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [License](#license)
+
 
   ## Installation
 
       ${data.installation}
 
+
+
   ## Usage
 
   ${data.usage}
 
-  ## License
 
-  ${data.licenses}
-
-  ${renderLicenseSection(data.licenses)}
-
-  ## Badges
-
-  ${renderLicenseBadge(data.licenses)}
 
   ## How to Contribute
 
   ${data.contribution}
 
+
+
   ## Tests
 
   ${data.test}
+
+
 
   ## Questions
 
   GitHub Username: [${data.github}](${data.githubLink})
 
   Email: ${data.email}
+
+
+
+  ## License
+
+  [${renderLicenseBadge(data.licenses)}](${renderLicenseLink(data.licenses)})
+
+  ${renderLicenseSection(data.licenses)}
 `;
 }
 
