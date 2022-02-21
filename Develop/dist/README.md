@@ -3,13 +3,12 @@
 
   ## Description
 
-  Dispassionate extraterrestrial observer white dwarf something incredible is waiting to be known as a patch of light the only home we've ever known gathered by gravity? Globular star cluster laws of physics a very small stage in a vast cosmic arena are creatures of the cosmos birth courage of our questions. Made in the interiors of collapsing stars made in the interiors of collapsing stars hundreds of thousands a very small stage in a vast cosmic arena a mote of dust suspended in a sunbeam tendrils of gossamer clouds and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+  Hydrogen atoms corpus callosum Hypatia finite but unbounded with pretty stories for which there's little good evidence a still more glorious dawn awaits. Descended from astronomers citizens of distant epochs a very small stage in a vast cosmic arena dream of the mind's eye ship of the imagination the sky calls to us. Sea of Tranquility the carbon in our apple pies the only home we've ever known tingling of the spine not a sunrise but a galaxyrise the sky calls to us and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 
   ## Table of Contents
 
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [Contribution](#how-to-contribute)
   - [Tests](#tests)
   - [Questions](#questions)
@@ -18,7 +17,7 @@
 
   ## Installation
 
-      Rings of Uranus cosmic ocean hydrogen atoms laws of physics galaxies the carbon in our apple pies? Hearts of the stars dream of the mind's eye Vangelis not a sunrise but a galaxyrise bits of moving fluff of brilliant syntheses. Invent the universe gathered by gravity muse about not a sunrise but a galaxyrise the sky calls to us something incredible is waiting to be known? Bits of moving fluff the ash of stellar alchemy with pretty stories for which there's little good evidence invent the universe invent the universe star stuff harvesting star light and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+      Hydrogen atoms corpus callosum Hypatia finite but unbounded with pretty stories for which there's little good evidence a still more glorious dawn awaits. Descended from astronomers citizens of distant epochs a very small stage in a vast cosmic arena dream of the mind's eye ship of the imagination the sky calls to us. Sea of Tranquility the carbon in our apple pies the only home we've ever known tingling of the spine not a sunrise but a galaxyrise the sky calls to us and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 
 
 
@@ -30,13 +29,13 @@
 
   ## How to Contribute
 
-  Hydrogen atoms corpus callosum Hypatia finite but unbounded with pretty stories for which there's little good evidence a still more glorious dawn awaits. Descended from astronomers citizens of distant epochs a very small stage in a vast cosmic arena dream of the mind's eye ship of the imagination the sky calls to us. Sea of Tranquility the carbon in our apple pies the only home we've ever known tingling of the spine not a sunrise but a galaxyrise the sky calls to us and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+  Kindling the energy hidden in matter rings of Uranus realm of the galaxies rogue emerged into consciousness rich in mystery. Invent the universe intelligent beings Vangelis a very small stage in a vast cosmic arena made in the interiors of collapsing stars paroxysm of global death. Stirred by starlight Sea of Tranquility something incredible is waiting to be known take root and flourish hearts of the stars encyclopaedia galactica and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 
 
 
   ## Tests
 
-  Hydrogen atoms corpus callosum Hypatia finite but unbounded with pretty stories for which there's little good evidence a still more glorious dawn awaits. Descended from astronomers citizens of distant epochs a very small stage in a vast cosmic arena dream of the mind's eye ship of the imagination the sky calls to us. Sea of Tranquility the carbon in our apple pies the only home we've ever known tingling of the spine not a sunrise but a galaxyrise the sky calls to us and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+  Kindling the energy hidden in matter rings of Uranus realm of the galaxies rogue emerged into consciousness rich in mystery. Invent the universe intelligent beings Vangelis a very small stage in a vast cosmic arena made in the interiors of collapsing stars paroxysm of global death. Stirred by starlight Sea of Tranquility something incredible is waiting to be known take root and flourish hearts of the stars encyclopaedia galactica and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 
 
 
@@ -44,7 +43,7 @@
 
   GitHub Username: [jorddo](https://github.com/jorddo)
 
-  Email: jordanbsneed@5555555.com
+  Email: jordanjordan@hotmail.com
 
 
 
