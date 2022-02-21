@@ -18,7 +18,11 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
   return inquirer.prompt(questions).then((readmeData) => {
-    writeToFile('./dist/README.md', generateMarkdown(readmeData));
+    const payload = {
+      ...readmeData,
+      licenses: readmeData.licenses[0].replace(/ /g, '_'),
+    };
+    writeToFile('./dist/README.md', generateMarkdown(payload));
     renderLicenseBadge(readmeData);
   });
 }
@@ -116,9 +120,9 @@ const questions = [
     message: 'Which license would you like to use with this project?',
     choices: [
       'MIT',
-      'GNU General Public 2.0',
+      'GNU General Public License 3.0',
       'Apache 2.0',
-      'GNU General Public 3.0',
+      'GNU General Public License 2.0',
     ],
   },
 ];
