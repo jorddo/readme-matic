@@ -1,11 +1,14 @@
 // packages
 const fs = require('fs');
 const inquirer = require('inquirer');
-const generateMarkdown = require('./utils/generateMarkdown');
+const {
+  generateMarkdown,
+  renderLicenseBadge,
+} = require('./utils/generateMarkdown');
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  fs.writeFile('./README.md', generateMarkdown, (err) => {
+  fs.writeFile(fileName, data, (err) => {
     if (err) throw err;
 
     console.log('README complete! Check out the markdown to see the output!');
@@ -15,8 +18,8 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
   return inquirer.prompt(questions).then((readmeData) => {
-    console.log({ readmeData });
-    generateMarkdown(readmeData);
+    writeToFile('./dist/README.md', generateMarkdown(readmeData));
+    renderLicenseBadge(readmeData);
   });
 }
 
