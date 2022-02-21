@@ -22,9 +22,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Badges
 
-# license links
+![MIT](https://img.shields.io/badge/license-MIT-blue)
 
-# license sections
+![GNU 2](https://img.shields.io/badge/license-GNU_GPL_2.0-blue)
+
+![Apache 2](https://img.shields.io/badge/license-Apache_2.0-blue)
+
+![GNU 3](https://img.shields.io/badge/license-GNU_GPL_3.0-blue)
+
+## license links
+
+## license sections
 
 MIT License
 
@@ -1266,7 +1274,7 @@ the library. If this is what you want to do, use the GNU Lesser General
 Public License instead of this License. But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<!-- ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+<!--
 
 badges hosted by [shields.io](https://shields.io/). -->
 
